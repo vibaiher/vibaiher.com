@@ -96,12 +96,20 @@ body {
   padding: 50px 0 0 0;
 }
 
+.about {
+  margin-bottom: 20px;
+}
+
 .about img{
-  width: 250px;
-  height: 250px;
+  width: 200px;
+  height: 200px;
   border-radius: 150px;
   -webkit-border-radius: 150px;
   -moz-border-radius: 150px;
+}
+
+.articles h2 span {
+  font-size: 2rem;
 }
 
 .work img:hover {
