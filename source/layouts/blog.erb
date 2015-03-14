@@ -7,7 +7,7 @@
 
     <link href="http://fonts.googleapis.com/css?family=Raleway:600,400,200" rel="stylesheet" type="text/css">
     <%= stylesheet_link_tag "foundation", "normalize", "all" %>
-    <%= javascript_include_tag "modernizr", "jquery", "all" %>
+    <%= javascript_include_tag "modernizr", "jquery", "foundation" %>
 
     <%= feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed" %>
   </head>
@@ -23,6 +23,17 @@
             <li><a href="/" class="button">Home</a></li>
           </ul>
         </div>
+      </div>
+    </div>
+
+    <div class="row about">
+      <div class="medium-6 large-8 columns text-center">
+        <h4>About</h4>
+        <p>Hi, I'm Vicente Baixauli, a test driven software developer from Valencia (Spain). I'm working at Aureka Internet since 2010.</p>
+        <p>I like TDD, BDD and clean code and I write code in Ruby, PHP and JavaScript.</p>
+      </div>
+      <div class="medium-6 large-4 columns text-center">
+        <%= image_tag 'vicente.jpg' %>
       </div>
     </div>
 
@@ -91,6 +102,7 @@
     </footer>
 
     <%= javascript_include_tag "foundation.clearing" %>
+    <%= google_analytics_universal_tag %>
 
   </body>
 </html>
