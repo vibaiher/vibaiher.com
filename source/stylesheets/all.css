@@ -97,7 +97,7 @@ body {
 }
 
 .about {
-  margin-bottom: 20px;
+  margin-bottom: 40px;
 }
 
 .about img{
@@ -137,10 +137,35 @@ hr {
 }
 
 footer {
-  padding: 80px 0 10px 0;
+  padding: 40px 0 10px 0;
 }
 
 footer a:hover {
   color: rgba(0, 0, 0, 0.4);
   background-color: transparent;
+}
+
+.takeover {
+  background: center center no-repeat;
+  background-size: cover;
+  color: white;
+  padding: 50px 0 50px 0;
+}
+
+.takeover h1,
+.takeover h2 {
+  color: white;
+}
+
+time {
+  font-size: 1.5rem;
+}
+
+.article h1,
+.article h2,
+.article h3,
+.article h4,
+.article h5,
+.article h6 {
+  margin: 20px 0 25px 0;
 }
