@@ -29,11 +29,11 @@ It’s about the moral and ethics as software developers, dark patterns, privacy
 
 #### [How to Build a Skyscraper](https://www.youtube.com/watch?v=7MeBuDLbF98)
 
-I proposed this one but anybody argued anything at end. Maybe its not as controversial as the first one, but I liked it because it shows a lot of problems related with software projects only talking about the history of skyscrapers.
+I proposed this one but nobody argued anything at end. Maybe its not as controversial as the first one, but I liked it because it shows a lot of problems related with software projects only talking about the history of skyscrapers.
 
 #### [Connascence & coupling](https://www.youtube.com/watch?v=Ip2o4vbAK3s)
 
-Sincerely I need to view this talk again. It's about coupling and cohesion, and a software metic called [Connascence](https://en.wikipedia.org/wiki/Connascence_(computer_programming)). This metric allow us to talk about the relation of two objects and the complexity of this relation. I’m sure this metic will appear in the next [Flywire](https://twitter.com/flywireeng)’s code reviews…
+Sincerely I need to view this talk again. It's about coupling and cohesion, and a software metic called [Connascence](https://en.wikipedia.org/wiki/Connascence_(computer_programming)). This metric allows us to talk about the relation of two objects and the complexity of this relation. I’m sure this metic will appear in the next [Flywire](https://twitter.com/flywireeng)’s code reviews…
 
 #### [Nothing is Something](https://www.youtube.com/watch?v=OMPfEXIlTVE)
 
@@ -41,7 +41,7 @@ I enjoy Sandi Metz's talks always, and this one is not an exception. In this tal
 
 #### [The Future of Programming](https://www.youtube.com/watch?v=8pTEmbeENF4)
 
-I really liked this one. Bret Victor staged that he was in 1973 giving a talk about the future of programming. He talked about a lot of computer science knowledge that we had in 1973 and nowadays it have not been applied. I have been thinking about learning about functional programming, reactive programming, actor models, etc… and this talk makes me think that this is the right way.
+I really liked this one. Bret Victor staged that he was in 1973 giving a talk about the future of programming. He talked about a lot of computer science knowledge that we had in 1973 and nowadays it hasn't been applied yet. I have been thinking about learning about functional programming, reactive programming, actor models, etc… and this talk makes me think that this is the right way.
 
 #### [Hunters and Gatherers](https://www.youtube.com/watch?v=ahh-QkttjuM)
 
@@ -53,7 +53,7 @@ This one is about how you communicate with others. It’s from a tester perspect
 
 #### [The Economy of Keystrokes](https://www.youtube.com/watch?v=C_yj4k4QZVI)
 
-This was an interesting talk. At the beginning he talked a bit about discriminations in our field. A field when if you are white, male, studied and american you have some advantages than others. It would be nice to beat this things as soon as possible… The rest of the talk can be summarized in “readers > writers”. You should write code thinking that someone later should be able to understand what you are doing and specially why you are doing this.
+This was an interesting talk. At the beginning he talked a bit about discriminations in our field. A field when if you are white, male, studied and american you have some advantages over others. It would be nice to beat this things as soon as possible… The rest of the talk can be summarized in “readers > writers”. You should write code thinking that anyone later should be able to understand what you are doing and specially why you are doing this.
 
 ### And that’s all folks
 
@@ -62,7 +62,7 @@ This was an interesting talk. At the beginning he talked a bit about discriminat
 * **1** paella.
 * Some **ping-pong** and **table soccer** games played.
 
-Although we only argued about someones, I think all of us learned something at the end so, at least for me, it was a pleasure to attend and I expect we can repeat this type of conference soon.
+Although we only argued about some of them, I think all of us learned something at the end so, at least for me, it was a pleasure to attend and I expect we can repeat this type of conference soon.
 
 ### Credits
 
