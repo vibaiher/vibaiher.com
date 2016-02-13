@@ -21,3 +21,6 @@
 # Vim files
 *.swp
 *.swo
+
+# Deploy file
+deploy
