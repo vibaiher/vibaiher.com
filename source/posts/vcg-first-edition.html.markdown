@@ -1,5 +1,5 @@
 ---
-title: "VCG: First Edition"
+title: "VCG, First Edition"
 image: vcg-first-edition/vcg.jpg
 date: 2016-02-07
 tags: vcg, conferences
