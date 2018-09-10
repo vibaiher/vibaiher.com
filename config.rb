@@ -41,10 +41,6 @@ configure :build do
   end
 end
 
-activate :google_analytics do |ga|
-  ga.tracking_id = 'UA-54316673-2'
-end
-
 page "/feed.xml", layout: false
 
 ###
