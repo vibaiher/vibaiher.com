@@ -1,5 +1,5 @@
 ---
-title: MiniRun Refactoring 2019
+title: Making of del (mini)run de Refactoring 2019
 image: images/blog-header.jpg
 date: 2019-05-19
 tags: devscola refactoring
